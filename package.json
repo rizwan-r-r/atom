@@ -20,7 +20,7 @@
     "@atom/watcher": "^1.3.5",
     "about": "file:packages/about",
     "archive-view": "git+https://github.com/atom/archive-view.git#762c5b6",
-    "async": "3.2.0",
+    "async": "3.2.2",
     "atom-dark-syntax": "file:packages/atom-dark-syntax",
     "atom-dark-ui": "file:packages/atom-dark-ui",
     "atom-keymap": "8.2.15",
@@ -34,7 +34,7 @@
     "autocomplete-snippets": "git+https://github.com/atom/autocomplete-snippets.git#2da0e23",
     "autoflow": "file:packages/autoflow",
     "autosave": "git+https://github.com/atom/autosave.git#129cbb9",
-    "babel-core": "5.8.38",
+    "babel-core": "6.26.3",
     "background-tips": "git+https://github.com/atom/background-tips.git#e54189c",
     "base16-tomorrow-dark-theme": "file:packages/base16-tomorrow-dark-theme",
     "base16-tomorrow-light-theme": "file:packages/base16-tomorrow-light-theme",
@@ -121,7 +121,7 @@
     "link": "file:packages/link",
     "markdown-preview": "git+https://github.com/atom/markdown-preview.git#c6df136",
     "metrics": "git+https://github.com/atom/metrics.git#d35d034",
-    "minimatch": "^3.0.3",
+    "minimatch": "^4.0.0",
     "mocha": "6.2.3",
     "mocha-junit-reporter": "2.0.0",
     "mocha-multi-reporters": "^1.1.4",
@@ -170,7 +170,7 @@
     "whitespace": "git+https://github.com/atom/whitespace.git#53d5ba9",
     "winreg": "^1.2.1",
     "wrap-guide": "git+https://github.com/atom/wrap-guide.git#6a4f577",
-    "yargs": "16.1.0"
+    "yargs": "17.7.2"
   },
   "packageDependencies": {
     "atom-dark-syntax": "file:./packages/atom-dark-syntax",
